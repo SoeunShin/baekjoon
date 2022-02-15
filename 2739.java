@@ -1,3 +1,5 @@
+# 구구단
+
 import java.util.Scanner;
 
 class Main {
