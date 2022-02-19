@@ -30,4 +30,4 @@ public class b2480 {
 			else if(C>B && B>A) System.out.println(C*100);
 		}
 	}
-}
+} 
