@@ -3,7 +3,7 @@ package java220307;
 // 백준 1085. 직사각형에서 탈출 
 import java.util.Scanner;
 public class b1085 {
-	public static void main() {
+	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
 		int x = sc.nextInt();
