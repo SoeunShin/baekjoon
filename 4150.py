@@ -16,7 +16,6 @@ print(fibo(int(sys.stdin.readline())))
 
 재귀를 사용하면 런타임 에러가 발생한다.
 """
-
 import sys
 
 n = int(sys.stdin.readline())
