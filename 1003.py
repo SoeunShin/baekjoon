@@ -10,4 +10,4 @@ for i in range(t):
         tmp = one
         one = one + zero
         zero = tmp
-    print(zero, one)
+    print(zero, one)\
